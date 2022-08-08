@@ -3,4 +3,4 @@
 
 * Установка зависимостей: `pip install requirements.txt`
 * Запуск: `python trainer.py`
-![screen-gif](./demo_keyboard.gif)
+![screen-gif](demo_keyboard.gif)
